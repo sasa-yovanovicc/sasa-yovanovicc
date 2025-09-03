@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @sasa-yovanovicc
-- 👀 I'm interested in Machine Learning, AI, Algorithms, and how to apply technology to make the world better
-- 🌱 I’m currently learning Business Analytics and Machine Learning
-- 💞️ I’m looking to collaborate on ... just drop me a line, a few words about your idea or project
-- 📫 How to reach me: the best way is email: sasa@adbuka.onmicrosoft.com
+👋 Hi, I’m Sasa Jovanovic (@sasa-yovanovicc)
+👀 I bring together two worlds – business and technology. With a dual background in software engineering and business management, I explore AI, ML, and Algorithms as tools to make the world not only smarter, but also more efficient and valuable.
+🌱 AI Solutions Architect | LLMs · RAG · Cloud AI · Computer Vision · Robotics | built on 30+ years in enterprise software.
+💡 30+ years in software, from startups to enterprise – now focused on AI-driven Digital Transformation
+🚀 Recent projects:
+AI Music Tutor (real-time performance analysis for students)
+Fleet GPS Data Cleaning (detecting anomalies, reconstructing true routes)
+Gym’n’Gym (patent-pending fitness equipment with AI & robotics as core features)
+💞️ I’m open to collaborate – just drop me a line about your idea or project
+📫 Best way to reach me: sasa@adbuka.onmicrosoft.com
 
+📖 A couple of stories
 ```
 When I started programming, the Internet appeared. 
 I asked a friend "how to install Yahoo" :)
@@ -24,7 +30,7 @@ I found another, better way.
 That is me. 
 Whoever likes the way I think, ok, whoever not likes, ok too.
 ```
-
+✨ I’m a lifelong learner: from “installing Yahoo” to building AI-powered systems, always finding a better way.
 <!---
 sasa-yovanovicc/sasa-yovanovicc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
